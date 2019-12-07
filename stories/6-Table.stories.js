@@ -1,24 +1,23 @@
 import { action } from '@storybook/addon-actions';
 import { linkTo } from '@storybook/addon-links';
 
-import MyForm from './preset/form.vue';
-import MyForm1 from './preset/form-1.vue';
+import MyTable from './preset/table.vue';
+import MyTable1 from './preset/table-1.vue';
 
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 
 export default {
-  title: 'Form',
+  title: 'Table',
 };
 
 export const Default = () => ({
-  components: { MyForm },
-  template: '<my-form @click="action">Hello Button</my-form>',
+  components: { MyTable },
+  template: '<my-table @click="action">Hello Button</my-table>',
   methods: { action: action('clicked') },
 });
-export const Form_style = () => ({
-  components: { MyForm1 },
-  template: '<my-form1 @click="action">Hello Button</my-form1>',
+export const Table_medium = () => ({
+  components: { MyTable1 },
+  template: '<my-table1 @click="action">Hello Button</my-table1>',
   methods: { action: action('clicked') },
 });
-
