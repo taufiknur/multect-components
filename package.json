@@ -1,5 +1,5 @@
 {
-  "name": "multect.ai",
+  "name": "multect-components",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -44,6 +44,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/taufiknur/multect-components.git"
-  }
+    "url": "git+https://github.com/taufiknur/multect-components.git"
+  },
+  "description": "Hallo World # multect.ai",
+  "bugs": {
+    "url": "https://github.com/taufiknur/multect-components/issues"
+  },
+  "homepage": "https://github.com/taufiknur/multect-components#readme",
+  "main": "babel.config.js",
+  "keywords": [
+    "components"
+  ],
+  "author": "MultecDev",
+  "license": "ISC"
 }
