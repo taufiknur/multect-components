@@ -1,6 +1,6 @@
 {
   "packages": [
-    "stories/preset/*"
+    "stories/*"
   ],
   "version": "independent",
   "command": {
