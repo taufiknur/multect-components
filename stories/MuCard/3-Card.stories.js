@@ -1,9 +1,9 @@
 import { action } from '@storybook/addon-actions';
 import { linkTo } from '@storybook/addon-links';
 
-import MyCard from './preset/card.vue';
-import MyCard1 from './preset/card-1.vue';
-import MyCard2 from './preset/card-2.vue';
+import MyCard from './card.vue';
+import MyCard1 from './card-1.vue';
+import MyCard2 from './card-2.vue';
 
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'

@@ -1,0 +1,7 @@
+{
+  "name": "@taufik98/mu-card",
+  "version": "0.0.0",
+  "publishConfig": {
+    "access": "public"
+  }
+}

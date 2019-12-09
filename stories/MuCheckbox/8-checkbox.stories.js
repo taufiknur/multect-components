@@ -1,7 +1,7 @@
 import { action } from '@storybook/addon-actions';
 import { linkTo } from '@storybook/addon-links';
 
-import MyCheckbox from './preset/checkbox.vue';
+import MyCheckbox from './checkbox.vue';
 
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
