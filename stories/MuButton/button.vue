@@ -75,7 +75,9 @@
 </template>
 
 <script>
-export default {};
+export default {
+  name: 'MuButton'
+};
 </script>
 
 <style scope>

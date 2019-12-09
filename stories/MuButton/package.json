@@ -1,5 +1,5 @@
 {
-  "name": "@taufik98/all-components",
+  "name": "@multec-comp/mu-button",
   "version": "0.3.0",
   "publishConfig": {
     "access": "public"
