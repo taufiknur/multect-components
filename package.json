@@ -30,7 +30,7 @@
     "babel-preset-vue": "^2.0.2",
     "css-loader": "^3.2.1",
     "lerna": "^3.19.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "sass": "^1.23.7",
     "sass-loader": "^8.0.0",
     "storybook-chromatic": "^3.4.0",
